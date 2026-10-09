@@ -11,7 +11,7 @@ The main objective of this project is to showcase essential data visualization w
 - Environment: Jupyter Notebook / JupyterLab
 
 # 📈 Visualizations
-Running the notebook automatically generates and saves the plot as results_task1.png:
+Running the notebook automatically generates and saves the plot as results_task1.png for task_2:
 
 <img width="1500" height="800" alt="all_results" src="https://github.com/user-attachments/assets/e20647f4-6c7d-4cc5-8978-519bd98a2669" />
 
