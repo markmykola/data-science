@@ -7,5 +7,5 @@ The main objective of this project is to showcase essential data visualization w
 # 🛠 Tech Stack
 - Language: Python 3.x
 - Key Libraries:
-- matplotlib — Data visualization and plotting
+- matplotlib - Data visualization and plotting
 - Environment: Jupyter Notebook / JupyterLab
