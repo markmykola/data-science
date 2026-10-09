@@ -3,3 +3,12 @@ This repository contains a practical assignment demonstrating data visualization
 
 ## 📝 Overview
 The main objective of this project is to showcase essential data visualization workflows, including plot customization, styling, and exporting graphical results into image files (results_task1.png).
+
+# 🛠 Tech Stack
+Language: Python 3.x
+
+Key Libraries:
+
+matplotlib — Data visualization and plotting
+
+Environment: Jupyter Notebook / JupyterLab
